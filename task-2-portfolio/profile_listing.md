@@ -21,7 +21,7 @@ develop my professional identity, and prepare for future career opportunities ğŸ
 <img src="Profile Readme.png" alt="GitHub Profile Screenshot">
 
 <h3>ğŸ“¸ LinkedIn Profile Screenshot</h3>
-<img src="linkedin-profile.png" alt="LinkedIn Profile Screenshot">
+<img src="Linkedin-Edu.png" alt="LinkedIn Profile Screenshot">
 
 </body>
 </html>
